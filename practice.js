@@ -9,3 +9,7 @@ const multiply = (a,b) => (
 const divide = (a,b) => (
     a/b
 )
+
+const minus = () => (
+    a-b
+)
